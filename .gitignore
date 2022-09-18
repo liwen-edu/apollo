@@ -25,7 +25,11 @@ yarn-error.log*
 /server/log/
 /server/gva
 /server/latest_log
+/server/server
 
 *.iml
 web/.pnpm-debug.log
 web/pnpm-lock.yaml
+
+# build filed
+/build
